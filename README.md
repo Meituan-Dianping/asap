@@ -9,3 +9,7 @@ ASAP is a large-scale Chinese restaurant review dataset for aspect-based sentime
   
   data = pd.read_csv(file_path, header=0)
   ```
+# Data labels
+  The sentiment polarity over the aspect category is labeled as 1(Positive), 0(Neutral), −1(Negative), −2(Not-Mentioned)
+  
+  The star ratings range from 1 to 5.
