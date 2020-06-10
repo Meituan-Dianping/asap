@@ -11,7 +11,7 @@ We hope the release of the dataset could shed some light on the fields of sentim
 
 ### Data Example
 
-
+![image](https://github.com/Meituan-Dianping/asap/blob/master/example_review.pdf)
 
 ### Read file
 
