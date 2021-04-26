@@ -1,5 +1,5 @@
 # ASAP-NAACL2021
-[TOC]
+
 
 ## General Introduction
 
