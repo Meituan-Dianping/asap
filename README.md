@@ -5,7 +5,7 @@ This repository contains the data of the paper "ASAP: A Chinese Review Dataset T
 
 **ASAP** is a large-scale Chinese restaurant review dataset for Aspect category Sentiment Analysis (ACSA) and review rating Prediction (RP).
 
-ASAP includes 46, 730 genuine user reviews from the [Dianping](https://www.dianping.com/) App, a leading Online-to-Offline (O2O) e-commerce platform. Besides a 5-star scale rating, each review is manually annotated according to its sentiment polarities towards 18 pre-defined aspect categories, including food, service, enrionment and so on. We split the dataset into a training set (37,300), a validation set (4,940) and a test set (4,940) randomly.  
+ASAP includes 46, 730 genuine user reviews from the [Dianping](https://www.dianping.com/) App, a leading Online-to-Offline (O2O) e-commerce platform. Besides a 5-star scale rating, each review is manually annotated according to its sentiment polarities towards 18 pre-defined aspect categories, including food, service, enrionment and so on. We split the dataset into a training set (36,850), a validation set (4,940) and a test set (4,940) randomly.  
 
 We hope the release of the dataset could shed some light on the fields of sentiment analysis.
 
