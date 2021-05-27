@@ -31,12 +31,23 @@ The star rating ranges from 1 to 5.
 Please cite the following paper if you found it useful in your work.
 
 ```
-@inproceedings{bu2021asap,
-    title={{ASAP}: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction},
-    author={Bu, Jiahao and Ren, Lei and Zheng, Shuang and Yang, Yang and Wang, Jingang and Zhang, Fuzheng and Wu, Wei},
-    booktitle={NAACL-HLT},
-    year={2021}
-    } 
+@inproceedings{bu-etal-2021-asap,
+    title = "{ASAP}: A {C}hinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction",
+    author = "Bu, Jiahao  and
+      Ren, Lei  and
+      Zheng, Shuang  and
+      Yang, Yang  and
+      Wang, Jingang  and
+      Zhang, Fuzheng  and
+      Wu, Wei",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-main.167",
+    pages = "2069--2079"
+}
 ```
 
 ## Contact
